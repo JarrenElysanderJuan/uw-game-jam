@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639055059406429112
+      ticks: 639055216589497296
     m_Hash: 3464244991
   m_LockFileStatus:
     m_FilePath: C:/Users/bfgma/OneDrive/Desktop/GameJamArc/uw-game-jam/uw-game-jam/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639055059406439270
+      ticks: 639055216589793681
     m_Hash: 2714283886
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
