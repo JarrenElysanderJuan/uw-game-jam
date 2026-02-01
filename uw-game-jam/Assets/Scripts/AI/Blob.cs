@@ -8,7 +8,7 @@ public class Blob : MonoBehaviour
     {
         if (isTarget)
         {
-            GameManager.instance.Win();
+            //GameManager.instance.Win();
         }
         Destroy(gameObject);
     }
