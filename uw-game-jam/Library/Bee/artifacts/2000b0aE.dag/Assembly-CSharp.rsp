@@ -109,6 +109,7 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_INPUT_SYSTEM
+-define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER
 -define:TEXTCORE_FONT_ENGINE_1_6_OR_NEWER
@@ -410,6 +411,9 @@
 "Assets/Scripts/AI/BlobWander.cs"
 "Assets/Scripts/Game/GameManager.cs"
 "Assets/Scripts/Game/TargetManager.cs"
+"Assets/Scripts/Player/mouseMovementScript.cs"
+"Assets/Scripts/Player/moveCamera.cs"
+"Assets/Scripts/Player/playerMovementScript.cs"
 -langversion:9.0
 /deterministic
 /optimize+
