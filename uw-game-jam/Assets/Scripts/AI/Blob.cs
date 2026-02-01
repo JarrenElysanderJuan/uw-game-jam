@@ -4,7 +4,7 @@ public class Blob : MonoBehaviour
 {
     public bool isTarget = false;
 
-    public void Die()
+    public void Die() 
     {
         if (isTarget)
         {
